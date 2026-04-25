@@ -118,7 +118,7 @@ SportifyHub/
 │   ├── middleware/
 │   └── config/
 
-## 4) Setup and Installation
+###  4) Setup and Installation
 
 ## Prerequisites
 - Node.js 18+ (recommended LTS)
@@ -134,6 +134,12 @@ SportifyHub/
 Frontend:
 ```bash
 cd frontend
+npm install
+```
+
+Backend:
+```bash
+cd backend
 npm install
 ```
 
